@@ -31,7 +31,7 @@ class Score():
         Methode: evaluation_r2_score
         Description: Caculate the r2 score
         Input: actual values, predicted values
-        Output: r2 
+        Output: r2
         on falure: log error
 
         Version: 1.0
